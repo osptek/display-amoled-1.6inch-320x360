@@ -1,0 +1,10 @@
+id: AM160Q320360ZS
+category: displays
+size: "1.6"
+panel: amoled
+resolution: 320x360
+interface: [qspi]
+driver: CO5300x1
+touch: CST820
+outline: null
+active_area: 27.024 x 30.402 mm
